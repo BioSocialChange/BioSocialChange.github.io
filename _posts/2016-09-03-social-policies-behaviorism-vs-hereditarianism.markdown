@@ -93,8 +93,8 @@ Even certain epigenetic changes have some preliminary evidence for heritability 
 
 ##More reading:
 
-Scott Alexander, [“The Biodeterminist's Guide to Parenting”](http://squid314.livejournal.com/346391.html)
-Scott Alexander, [“Modality and Morality”](http://squid314.livejournal.com/345414.html)
-Nick Bostrom and Carl Shulman, [“Embryo Selection for Cognitive Enhancement: Curiosity or Game-changer?”](http://www.nickbostrom.com/papers/embryo.pdf)
-gwern, [“Embryo Selection for Intelligence”](https://www.gwern.net/Embryo%20selection)
-gwern, [“Embryo Editing for Intelligence”](http://www.gwern.net/Embryo%20editing)
+* Scott Alexander, [“The Biodeterminist's Guide to Parenting”](http://squid314.livejournal.com/346391.html)
+* Scott Alexander, [“Modality and Morality”](http://squid314.livejournal.com/345414.html)
+* Nick Bostrom and Carl Shulman, [“Embryo Selection for Cognitive Enhancement: Curiosity or Game-changer?”](http://www.nickbostrom.com/papers/embryo.pdf)
+* gwern, [“Embryo Selection for Intelligence”](https://www.gwern.net/Embryo%20selection)
+* gwern, [“Embryo Editing for Intelligence”](http://www.gwern.net/Embryo%20editing)

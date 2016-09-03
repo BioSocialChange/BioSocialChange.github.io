@@ -3,7 +3,7 @@ published: true
 title: Social Policies: Behaviorism vs Hereditarianism
 layout: post
 ---
-##Some large-scale social goals:
+## Some large-scale social goals:
 
 1. An informed public. This requires multiple components: schooling, adequate nutrition, adequate sleep, innate curiosity, and innate cognitive horsepower.
 2. Trust. The opposite of trust is fear, and fear is caused by things like crime and disease.
@@ -15,7 +15,7 @@ Another possible critique could come from thinkers like Foucault and Habermas, w
 
 Whether science strips life of dignity is outside the scope of this paper, which is only focusing on plausible avenues for progress backed by evidence. Likewise, I’ll also be setting aside some of the more hypothetical ideas, such as whole brain emulation.
 
-##Behaviorist Reforms	
+## Behaviorist Reforms	
 
 It cannot be denied that environmental factors, particularly involving civilization, have deeply changed the human animal in ways that can scarcely be understated.
 
@@ -40,7 +40,7 @@ Simple things like being able to track time immeasurably impact the agency of hu
 * Transcranial Magnetic Stimulation
 * Binaural Beats
 
-##Hereditarian Reforms
+## Hereditarian Reforms
 
 Despite the demonstrable usefulness of behaviorist approaches, they are by no means free of the potential for tyrannical uses. But the same is true of the opposite approach, hereditarianism. The dangers of eugenics in the context of state power are now well-known.
 
@@ -48,7 +48,7 @@ Yet, for the same reason that not all behaviorist approaches are equivalent to C
 
 Various traits might be sought, such as empathy, the ability to delay gratification, longevity, curiosity, and intelligence.
 
-###Consider some examples:
+### Consider some examples:
 
 * Promotion of birth control, contraceptives, plan B, first trimester abortion, etc.
 * Student loan forgiveness for all college graduates on a per-child basis
@@ -61,7 +61,7 @@ Various traits might be sought, such as empathy, the ability to delay gratificat
 * Compile a modal human genome
 * Use CRISPR to modify human embryos closer to modal, except on genes with known benefits
 
-##Compatibilist Reforms
+## Compatibilist Reforms
 
 Certain reforms operate in the grey area between genes and environment, and can be acceptable or even attractive to both camps.
 
@@ -86,12 +86,12 @@ Even certain epigenetic changes have some preliminary evidence for heritability 
 * Use Soylent as a control group for nutritional studies
 * Mandatory f.lux dimming in all electronic devices, turned on by default.
 * Nootropics
-** Cacao
-** Magnesium L-threonate
-** Piracetam
-** Theanine
+  * Cacao
+  * Magnesium L-threonate
+  * Piracetam
+  * Theanine
 
-##More reading:
+## More reading:
 
 * Scott Alexander, [“The Biodeterminist's Guide to Parenting”](http://squid314.livejournal.com/346391.html)
 * Scott Alexander, [“Modality and Morality”](http://squid314.livejournal.com/345414.html)

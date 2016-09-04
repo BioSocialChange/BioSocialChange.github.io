@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://BioSocialChange.github.io
 title: BioSocialChange
-tagline: Change biology by changing society.
-description: Change society by changing biology.
+tagline: Change society by changing biology
+description: Change biology by changing society
 paginate: 5
